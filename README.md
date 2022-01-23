@@ -42,7 +42,9 @@ Jupyter Notebooks can either be executed on [Google Colab](https://colab.researc
 
 You can rely on the [setup_CSE204.sh](setup_CSE204.sh) script on Linux and (possibly) Mac OS.
 
-Run it with `bash -i setup_CSE204.sh`.
+To retrieve it from the command line, type `wget https://raw.githubusercontent.com/adimajo/CSE204-2021/master/setup_CSE204.sh`.
+
+Run it with `bash -i setup_CSE204.sh` (you might be prompted to confirm updates / packages installations).
 
 It does the following:
 
