@@ -16,9 +16,13 @@ Machine learning is an increasingly important area, and it has provided many of 
 
 **Grading:**
 
-14 Lab reports - 
+14 Lab reports:
 
-3 Quizzes - 
+* 2 lab exams
+* 1 graded exam
+* bonuses / maluses for all others
+
+3 Quizzes (grades incorporated to the graded / exam labs).
 
 Group project (in groups of 2-4) 50%
 
@@ -36,7 +40,11 @@ Jupyter Notebooks can either be executed on [Google Colab](https://colab.researc
 
 ### Installation
 
-You can rely on the [setup_CSE204.sh](setup_CSE204.sh) script on Linux and Mac OS. It does the following:
+You can rely on the [setup_CSE204.sh](setup_CSE204.sh) script on Linux and (possibly) Mac OS.
+
+Run it with `bash -i setup_CSE204.sh`.
+
+It does the following:
 
 1. Check if `conda` is available
 
@@ -47,11 +55,11 @@ If in the computer rooms, it will try to add `conda` by adding its PATH:
 
 `conda init`
 
-1. Else, check if `pip3` is available
+2. Else, check if `pip3` is available
 
 At this stage, it seems you don't have a working Python environment on this computer. Either install [Anaconda](https://www.anaconda.com/products/individual) (2021.05 or above ; Python 3.8 or above) or [Python 3.8](https://www.python.org/downloads/) and restart the script.
 
-1. Install the requirements
+3. Install the requirements
 
 *With conda*
 
@@ -67,12 +75,12 @@ To list the requirements, we use [this conda_environment.yml](conda_environment.
 
 `conda env create -f conda_environment.yml`
 
-`python -m ipykernel install --user --name cse204 --display-name "Python (cse204)"`
+`python -m ipykernel install --user --name CSE204 --display-name "Python (CSE204)"`
 
-This will install all dependencies in a new conda environment named cse204. Once on the Notebook, don't forget to use Kernel > Change Kernel to use the Python (cse204) environment.
-If the conda environment cse204 already exists, you may delete it with the following command:
+This will install all dependencies in a new conda environment named CSE204. Once on the Notebook, don't forget to use Kernel > Change Kernel to use the Python (CSE204) environment.
+If the conda environment CSE204 already exists, you may delete it with the following command:
 
-`conda remove --name cse204 --all`
+`conda remove --name CSE204 --all`
 
 *With pip3*
 
