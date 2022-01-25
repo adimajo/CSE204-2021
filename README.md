@@ -98,6 +98,8 @@ Upload your work on Moodle: **do not rename the assignement**, **do not put it i
 
 While working on your assignement, **do not change the type** (e.g. Code, Text) **of a cell you did not create** (you are free to create new cells of whatever type).
 
+To work on the mathematical exercises, you can use a sheet of paper; upload it by inserting a new blank Markdown cell and clicking **Edit** > **Insert image**.
+
 Failure to follow these rules will break the autograding software (and result in 0 point for that assignment).
 
 ## Lab sessions

@@ -20,13 +20,14 @@ fi
 if $CONDA_FOUND
 then
     echo "Installing requirements with conda"
-    conda install -c conda-forge nbgrader
+    curl -O https://raw.githubusercontent.com/adimajo/CSE204-2021/master/conda_environment.yml
+    conda env create -f conda_environment.yml
+    conda activate CSE204
+    conda install -c conda-forge nbgrader -y
     jupyter nbextension install --sys-prefix --py nbgrader --overwrite
     jupyter nbextension enable --sys-prefix --py nbgrader
     jupyter serverextension enable --sys-prefix --py nbgrader
-    curl -O https://raw.githubusercontent.com/adimajo/CSE204-2021/master/conda_environment.yml
-    conda env create -f conda_environment.yml
-    python -m ipykernel install --user --name CSE204 --display-name "CSE204"
+    python3 -m ipykernel install --user --name CSE204 --display-name "CSE204"
 else
     echo "Detecting pip3"
     if ! command -v pip3 &> /dev/null
