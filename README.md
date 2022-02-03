@@ -116,11 +116,10 @@ Failure to follow these rules will break the autograding software (and result in
 
 ### Solution:
 
-[![Solutions](https://img.shields.io/badge/Solution-As%20HTML-blueviolet)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Solutions](https://img.shields.io/badge/Solution-As%20HTML-blueviolet)](https://htmlpreview.github.io/?https://github.com/adimajo/CSE204-2021/blob/master/lab_session_01/lab_session_01.html)
 
 ## Lab session 02: parametric models
 
-<!---
 ### Subject:
 
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adimajo/CSE204-2021/blob/master/lab_session_02/lab_session_02.ipynb)
@@ -132,7 +131,6 @@ Failure to follow these rules will break the autograding software (and result in
 ### Solution:
 
 [![Solutions](https://img.shields.io/badge/Solution-As%20HTML-blueviolet)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
--->
 
 ## Lab session 03: `k`-nearest neighbors
 
@@ -280,9 +278,9 @@ Failure to follow these rules will break the autograding software (and result in
 
 ## Lab session 12: Exam 2
 
+<!---
 ### Subject:
 
-<!---
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adimajo/CSE204-2021/blob/master/lab_session_12/lab_session_12.ipynb)
 
 [![My Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adimajo/CSE204-2021/master?filepath=lab_session_12%2Flab_session_12.ipynb)
