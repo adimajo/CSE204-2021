@@ -116,7 +116,7 @@ Failure to follow these rules will break the autograding software (and result in
 
 ### Solution:
 
-[![Solutions](https://img.shields.io/badge/Solution-As%20HTML-blueviolet)](https://htmlpreview.github.io/?https://github.com/adimajo/CSE204-2021/blob/master/lab_session_01/lab_session_01.html)
+[![Solutions](https://img.shields.io/badge/Solution-As%20HTML-blueviolet)](https://adimajo.github.io/CSE204-2021/lab_session_01/lab_session_01.html)
 
 ## Lab session 02: parametric models
 
@@ -126,11 +126,11 @@ Failure to follow these rules will break the autograding software (and result in
 
 [![My Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adimajo/CSE204-2021/master?filepath=lab_session_02%2Flab_session_02.ipynb)
 
-[![Local](https://img.shields.io/badge/Local-Save%20As...-blue)](https://img.shields.io/badge/Solution-As%20HTML-blueviolet)](https://htmlpreview.github.io/?https://github.com/adimajo/CSE204-2021/blob/master/lab_session_02/lab_session_02.html)
+[![Local](https://img.shields.io/badge/Local-Save%20As...-blue)](https://htmlpreview.github.io/?https://github.com/adimajo/CSE204-2021/blob/master/lab_session_02/lab_session_02.html)
 
 ### Solution:
 
-[![Solutions](https://img.shields.io/badge/Solution-As%20HTML-blueviolet)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Solutions](https://img.shields.io/badge/Solution-As%20HTML-blueviolet)](https://adimajo.github.io/CSE204-2021/lab_session_02/lab_session_02.html)
 
 ## Lab session 03: `k`-nearest neighbors
 
@@ -144,7 +144,7 @@ Failure to follow these rules will break the autograding software (and result in
 
 ### Solution:
 
-[![Solutions](https://img.shields.io/badge/Solution-As%20HTML-blueviolet)](https://img.shields.io/badge/Solution-As%20HTML-blueviolet)](https://htmlpreview.github.io/?https://github.com/adimajo/CSE204-2021/blob/master/lab_session_03/lab_session_03.html)
+[![Solutions](https://img.shields.io/badge/Solution-As%20HTML-blueviolet)](https://adimajo.github.io/CSE204-2021/lab_session_03/lab_session_03.html)
 
 ## Lab session 04: regression methods
 
