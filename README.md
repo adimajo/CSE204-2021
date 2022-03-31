@@ -218,7 +218,6 @@ Failure to follow these rules will break the autograding software (and result in
 
 ## Lab session 09: Decision Trees and Ensemble Methods
 
-<!---
 ### Subject:
 
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adimajo/CSE204-2021/blob/master/lab_session_09/lab_session_09.ipynb)
@@ -230,7 +229,6 @@ Failure to follow these rules will break the autograding software (and result in
 ### Solution:
 
 [![Solutions](https://img.shields.io/badge/Solution-As%20HTML-blueviolet)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
--->
 
 ## Lab session 10: Dimensionality Reduction with PCA and Autoencoders
 

@@ -2,6 +2,9 @@ name: CSE204
 channels:
   - anaconda
   - defaults
+  - pytorch
+  - conda-forge
+  - apple
 dependencies:
   - _tflow_select>=2.3.0
   - absl-py>=0.8.1
@@ -94,7 +97,8 @@ dependencies:
   - termcolor>=1.1.0
   - tk>=8.6.8
   - tornado>=6.0.3
-  - torch>=1.11
+  - pytorch>=1.11
+  - gym
   - traitlets>=4.3.3
   - wcwidth>=0.1.8
   - werkzeug>=0.16.1
