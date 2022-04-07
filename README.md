@@ -228,7 +228,7 @@ Failure to follow these rules will break the autograding software (and result in
 
 ### Solution:
 
-[![Solutions](https://img.shields.io/badge/Solution-As%20HTML-blueviolet)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Solutions](https://img.shields.io/badge/Solution-As%20HTML-blueviolet)](https://adimajo.github.io/CSE204-2021/lab_session_09/lab_session_09.html)
 
 ## Lab session 10: Dimensionality Reduction with PCA
 
