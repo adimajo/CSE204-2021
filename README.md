@@ -242,11 +242,10 @@ Failure to follow these rules will break the autograding software (and result in
 
 ### Solution:
 
-[![Solutions](https://img.shields.io/badge/Solution-As%20HTML-blueviolet)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Solutions](https://img.shields.io/badge/Solution-As%20HTML-blueviolet)](https://adimajo.github.io/CSE204-2021/lab_session_10/lab_session_10.html)
 
 ## Lab session 11: Dimensionality Reduction with Autoencoders
 
-<!---
 ### Subject:
 
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adimajo/CSE204-2021/blob/master/lab_session_11/lab_session_11.ipynb)
@@ -258,7 +257,6 @@ Failure to follow these rules will break the autograding software (and result in
 ### Solution:
 
 [![Solutions](https://img.shields.io/badge/Solution-As%20HTML-blueviolet)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
--->
 
 ## Lab session 12: Exam 2
 
