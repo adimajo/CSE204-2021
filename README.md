@@ -288,8 +288,6 @@ Failure to follow these rules will break the autograding software (and result in
 
 ## Lab session 14: Kernel methods
 
-<!---
-
 ### Subject:
 
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adimajo/CSE204-2021/blob/master/lab_session_14/lab_session_14.ipynb)
@@ -301,21 +299,3 @@ Failure to follow these rules will break the autograding software (and result in
 ### Solution:
 
 [![Solutions](https://img.shields.io/badge/Solution-As%20HTML-blueviolet)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
--->
-
-## Lab session 15 (bonus): Reinforcement Learning
-
-<!---
-
-### Subject:
-
-[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adimajo/CSE204-2021/blob/master/lab_session_14/lab_session_14.ipynb)
-
-[![My Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adimajo/CSE204-2021/master?filepath=lab_session_14%2Flab_session_14.ipynb)
-
-[![Local](https://img.shields.io/badge/Local-Save%20As...-blue)](https://github.com/adimajo/CSE204-2021/raw/master/lab_session_14/lab_session_14.ipynb)
-
-### Solution:
-
-[![Solutions](https://img.shields.io/badge/Solution-As%20HTML-blueviolet)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
--->
